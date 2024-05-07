@@ -1,0 +1,88 @@
+TransitionGroupID,Model_Code,annual_probability,BpS_Name,...1,BLUE,ACRES,REL_PERCENT,annual_dist_acres
+All Fire,10820_12_15_16_17_23_24,0.0012436,Mojave Mid-Elevation Mixed Desert Scrub,1,0.28627451,198161,16.4,246.4330196
+All Transitions,10820_12_15_16_17_23_24,0.0012436,Mojave Mid-Elevation Mixed Desert Scrub,1,0.28627451,198161,16.4,246.4330196
+Replacement Fire,10820_12_15_16_17_23_24,0.0012436,Mojave Mid-Elevation Mixed Desert Scrub,1,0.28627451,198161,16.4,246.4330196
+All Fire,10160_15_28,0.0080608,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,1411.325168
+All Transitions,10160_15_28,0.0266456,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,4665.244876
+Alternative Succession,10160_15_28,0.0076906,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,1346.508701
+Competition or Maintenance,10160_15_28,0.0034882,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,610.731497
+Insect or Disease,10160_15_28,0.0058672,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,1027.258712
+Mixed Fire,10160_15_28,0.0052476,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,918.776046
+Non Fire Disturbances,10160_15_28,0.0108942,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,1907.411007
+Non Replacement Fire,10160_15_28,0.0057084,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,999.455214
+Replacement Fire,10160_15_28,0.0023524,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,411.869954
+Surface Fire,10160_15_28,0.0004608,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,80.679168
+Wind or Weather or Stress,10160_15_28,0.0015388,Colorado Plateau Pinyon-Juniper Woodland,2,0.4,175085,14.5,269.420798
+All Fire,10804_6_12_15_16_17_18_23_24_25,0.0084418,Inter-Mountain Basins Big Sagebrush Shrubland - Upland,4,0.909803922,92898,7.7,784.2263364
+All Transitions,10804_6_12_15_16_17_18_23_24_25,0.0143996,Inter-Mountain Basins Big Sagebrush Shrubland - Upland,4,0.909803922,92898,7.7,1337.694041
+Non Fire Disturbances,10804_6_12_15_16_17_18_23_24_25,0.0059578,Inter-Mountain Basins Big Sagebrush Shrubland - Upland,4,0.909803922,92898,7.7,553.4677044
+Replacement Fire,10804_6_12_15_16_17_18_23_24_25,0.0084418,Inter-Mountain Basins Big Sagebrush Shrubland - Upland,4,0.909803922,92898,7.7,784.2263364
+Wind or Weather or Stress,10804_6_12_15_16_17_18_23_24_25,0.0059578,Inter-Mountain Basins Big Sagebrush Shrubland - Upland,4,0.909803922,92898,7.7,553.4677044
+All Fire,10780_15,0.0034632,Colorado Plateau Blackbrush-Mormon-tea Shrubland,5,0.811764706,76343,6.3,264.3910776
+All Transitions,10780_15,0.0034632,Colorado Plateau Blackbrush-Mormon-tea Shrubland,5,0.811764706,76343,6.3,264.3910776
+Replacement Fire,10780_15,0.0034632,Colorado Plateau Blackbrush-Mormon-tea Shrubland,5,0.811764706,76343,6.3,264.3910776
+All Fire,10540_15_25,0.1084062,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,8030.406077
+All Transitions,10540_15_25,0.1109472,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,8218.635734
+Alternative Succession,10540_15_25,0.0020834,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,154.3320218
+Insect or Disease,10540_15_25,0.0004576,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,33.8976352
+Mixed Fire,10540_15_25,0.0093404,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,691.9088108
+Non Fire Disturbances,10540_15_25,0.0004576,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,33.8976352
+Non Replacement Fire,10540_15_25,0.1059008,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,7844.813562
+Replacement Fire,10540_15_25,0.0025054,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,185.5925158
+Surface Fire,10540_15_25,0.0965604,Southern Rocky Mountain Ponderosa Pine Woodland,6,0,74077,6.1,7152.904751
+All Fire,11040_15,0.013108,Mogollon Chaparral,7,0.82745098,65369,5.4,856.856852
+All Transitions,11040_15,0.013108,Mogollon Chaparral,7,0.82745098,65369,5.4,856.856852
+Non Replacement Fire,11040_15,0.0005036,Mogollon Chaparral,7,0.82745098,65369,5.4,32.9198284
+Replacement Fire,11040_15,0.0126044,Mogollon Chaparral,7,0.82745098,65369,5.4,823.9370236
+Surface Fire,11040_15,0.0005036,Mogollon Chaparral,7,0.82745098,65369,5.4,32.9198284
+All Fire,10930_13_15_16_23_24_28,0.0046186,Southern Colorado Plateau Sand Shrubland,8,0.094117647,62545,5.2,288.870337
+All Transitions,10930_13_15_16_23_24_28,0.012289,Southern Colorado Plateau Sand Shrubland,8,0.094117647,62545,5.2,768.615505
+Non Fire Disturbances,10930_13_15_16_23_24_28,0.0076704,Southern Colorado Plateau Sand Shrubland,8,0.094117647,62545,5.2,479.745168
+Replacement Fire,10930_13_15_16_23_24_28,0.0046186,Southern Colorado Plateau Sand Shrubland,8,0.094117647,62545,5.2,288.870337
+Wind or Weather or Stress,10930_13_15_16_23_24_28,0.0076704,Southern Colorado Plateau Sand Shrubland,8,0.094117647,62545,5.2,479.745168
+All Fire,11270_15,0.0084802,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,428.5299466
+All Transitions,11270_15,0.1252672,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,6330.127418
+Alternative Succession,11270_15,0.0021546,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,108.8784018
+Insect or Disease,11270_15,0.0136456,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,689.5531048
+Non Fire Disturbances,11270_15,0.1146324,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,5792.719069
+Replacement Fire,11270_15,0.0084802,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,428.5299466
+Wind or Weather or Stress,11270_15,0.1009868,Inter-Mountain Basins Semi-Desert Shrub-Steppe,9,0.843137255,50533,4.2,5103.165964
+All Fire,10810_15_16_23_24_28,0.001596,Inter-Mountain Basins Mixed Salt Desert Scrub,10,0.478431373,33173,2.7,52.944108
+All Transitions,10810_15_16_23_24_28,0.0630768,Inter-Mountain Basins Mixed Salt Desert Scrub,10,0.478431373,33173,2.7,2092.446686
+Alternative Succession,10810_15_16_23_24_28,0.0067586,Inter-Mountain Basins Mixed Salt Desert Scrub,10,0.478431373,33173,2.7,224.2030378
+Non Fire Disturbances,10810_15_16_23_24_28,0.0547222,Inter-Mountain Basins Mixed Salt Desert Scrub,10,0.478431373,33173,2.7,1815.299541
+Replacement Fire,10810_15_16_23_24_28,0.001596,Inter-Mountain Basins Mixed Salt Desert Scrub,10,0.478431373,33173,2.7,52.944108
+Wind or Weather or Stress,10810_15_16_23_24_28,0.0547222,Inter-Mountain Basins Mixed Salt Desert Scrub,10,0.478431373,33173,2.7,1815.299541
+All Fire,10550_15_28,0.0072968,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,208.8490096
+All Transitions,10550_15_28,0.016136,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,461.844592
+Alternative Succession,10550_15_28,0.0048118,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,137.7233396
+Competition or Maintenance,10550_15_28,0.000448,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,12.822656
+Insect or Disease,10550_15_28,0.0015914,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,45.5490508
+Mixed Fire,10550_15_28,0.0022802,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,65.2638844
+Non Fire Disturbances,10550_15_28,0.0040274,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,115.2722428
+Non Replacement Fire,10550_15_28,0.0022802,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,65.2638844
+Replacement Fire,10550_15_28,0.0050166,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,143.5851252
+Wind or Weather or Stress,10550_15_28,0.001988,Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland,11,0.745098039,28622,2.4,56.900536
+All Fire,10810_15_16_23_24_28,0.001596,Inter-Mountain Basins Mixed Salt Desert Scrub,13,0.478431373,18652,1.5,29.768592
+All Transitions,10810_15_16_23_24_28,0.0630768,Inter-Mountain Basins Mixed Salt Desert Scrub,13,0.478431373,18652,1.5,1176.508474
+Alternative Succession,10810_15_16_23_24_28,0.0067586,Inter-Mountain Basins Mixed Salt Desert Scrub,13,0.478431373,18652,1.5,126.0614072
+Non Fire Disturbances,10810_15_16_23_24_28,0.0547222,Inter-Mountain Basins Mixed Salt Desert Scrub,13,0.478431373,18652,1.5,1020.678474
+Replacement Fire,10810_15_16_23_24_28,0.001596,Inter-Mountain Basins Mixed Salt Desert Scrub,13,0.478431373,18652,1.5,29.768592
+Wind or Weather or Stress,10810_15_16_23_24_28,0.0547222,Inter-Mountain Basins Mixed Salt Desert Scrub,13,0.478431373,18652,1.5,1020.678474
+All Fire,10610_15_25,0.0810248,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,1205.811074
+All Transitions,10610_15_25,0.0826078,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,1229.36928
+Alternative Succession,10610_15_25,0.0012578,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,18.7185796
+Insect or Disease,10610_15_25,0.0003252,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,4.8396264
+Mixed Fire,10610_15_25,0.049203,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,732.239046
+Non Fire Disturbances,10610_15_25,0.0003252,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,4.8396264
+Non Replacement Fire,10610_15_25,0.0581508,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,865.4002056
+Replacement Fire,10610_15_25,0.022874,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,340.410868
+Surface Fire,10610_15_25,0.0089478,Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland,14,0,14882,1.2,133.1611596
+All Fire,10870_4_6_12_13_14_15_17_24_25,0.0030082,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,15,0.721568627,14572,1.2,43.8354904
+All Transitions,10870_4_6_12_13_14_15_17_24_25,0.0141404,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,15,0.721568627,14572,1.2,206.0539088
+Non Fire Disturbances,10870_4_6_12_13_14_15_17_24_25,0.0111322,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,15,0.721568627,14572,1.2,162.2184184
+Replacement Fire,10870_4_6_12_13_14_15_17_24_25,0.0030082,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,15,0.721568627,14572,1.2,43.8354904
+Wind or Weather or Stress,10870_4_6_12_13_14_15_17_24_25,0.0111322,Sonora-Mojave Creosotebush-White Bursage Desert Scrub,15,0.721568627,14572,1.2,162.2184184
+All Fire,11080_4_5_13_14_15_24_25,0.0122214,Sonora-Mojave Semi-Desert Chaparral,16,0.678431373,12019,1,146.8890066
+All Transitions,11080_4_5_13_14_15_24_25,0.0122214,Sonora-Mojave Semi-Desert Chaparral,16,0.678431373,12019,1,146.8890066
+Replacement Fire,11080_4_5_13_14_15_24_25,0.0122214,Sonora-Mojave Semi-Desert Chaparral,16,0.678431373,12019,1,146.8890066

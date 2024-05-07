@@ -1,0 +1,135 @@
+"","BpS_Name","refLabel","refCur","Percent"
+"1","Colorado Plateau Pinyon-Juniper Woodland","A","refPercent",10
+"2","Colorado Plateau Pinyon-Juniper Woodland","A","currentPercent",18
+"3","Colorado Plateau Pinyon-Juniper Woodland","B","refPercent",21
+"4","Colorado Plateau Pinyon-Juniper Woodland","B","currentPercent",0
+"5","Colorado Plateau Pinyon-Juniper Woodland","C","refPercent",25
+"6","Colorado Plateau Pinyon-Juniper Woodland","C","currentPercent",21
+"7","Colorado Plateau Pinyon-Juniper Woodland","D","refPercent",34
+"8","Colorado Plateau Pinyon-Juniper Woodland","D","currentPercent",17
+"9","Colorado Plateau Pinyon-Juniper Woodland","E","refPercent",10
+"10","Colorado Plateau Pinyon-Juniper Woodland","E","currentPercent",2
+"11","Colorado Plateau Pinyon-Juniper Woodland","Agriculture","refPercent",0
+"12","Colorado Plateau Pinyon-Juniper Woodland","Agriculture","currentPercent",0
+"13","Colorado Plateau Pinyon-Juniper Woodland","Developed","refPercent",0
+"14","Colorado Plateau Pinyon-Juniper Woodland","Developed","currentPercent",0
+"15","Colorado Plateau Pinyon-Juniper Woodland","Water","refPercent",0
+"16","Colorado Plateau Pinyon-Juniper Woodland","Water","currentPercent",NA
+"17","Colorado Plateau Pinyon-Juniper Woodland","UN","refPercent",0
+"18","Colorado Plateau Pinyon-Juniper Woodland","UN","currentPercent",NA
+"19","Colorado Plateau Pinyon-Juniper Woodland","UE","refPercent",0
+"20","Colorado Plateau Pinyon-Juniper Woodland","UE","currentPercent",0
+"21","Colorado Plateau Pinyon-Juniper Woodland","A","refPercent",9
+"22","Colorado Plateau Pinyon-Juniper Woodland","A","currentPercent",3
+"23","Colorado Plateau Pinyon-Juniper Woodland","A","refPercent",9
+"24","Colorado Plateau Pinyon-Juniper Woodland","A","currentPercent",31
+"25","Colorado Plateau Pinyon-Juniper Woodland","B","refPercent",21
+"26","Colorado Plateau Pinyon-Juniper Woodland","B","currentPercent",1
+"27","Colorado Plateau Pinyon-Juniper Woodland","C","refPercent",24
+"28","Colorado Plateau Pinyon-Juniper Woodland","C","currentPercent",53
+"29","Colorado Plateau Pinyon-Juniper Woodland","C","refPercent",24
+"30","Colorado Plateau Pinyon-Juniper Woodland","C","currentPercent",8
+"31","Colorado Plateau Pinyon-Juniper Woodland","D","refPercent",38
+"32","Colorado Plateau Pinyon-Juniper Woodland","D","currentPercent",5
+"33","Colorado Plateau Pinyon-Juniper Woodland","D","refPercent",38
+"34","Colorado Plateau Pinyon-Juniper Woodland","D","currentPercent",1
+"35","Colorado Plateau Pinyon-Juniper Woodland","E","refPercent",8
+"36","Colorado Plateau Pinyon-Juniper Woodland","E","currentPercent",1
+"37","Colorado Plateau Pinyon-Juniper Woodland","E","refPercent",8
+"38","Colorado Plateau Pinyon-Juniper Woodland","E","currentPercent",0
+"39","Colorado Plateau Pinyon-Juniper Woodland","Agriculture","refPercent",0
+"40","Colorado Plateau Pinyon-Juniper Woodland","Agriculture","currentPercent",NA
+"41","Colorado Plateau Pinyon-Juniper Woodland","Developed","refPercent",0
+"42","Colorado Plateau Pinyon-Juniper Woodland","Developed","currentPercent",NA
+"43","Colorado Plateau Pinyon-Juniper Woodland","Water","refPercent",0
+"44","Colorado Plateau Pinyon-Juniper Woodland","Water","currentPercent",NA
+"45","Colorado Plateau Pinyon-Juniper Woodland","UN","refPercent",0
+"46","Colorado Plateau Pinyon-Juniper Woodland","UN","currentPercent",NA
+"47","Colorado Plateau Pinyon-Juniper Woodland","UE","refPercent",0
+"48","Colorado Plateau Pinyon-Juniper Woodland","UE","currentPercent",7
+"49","Colorado Plateau Pinyon-Juniper Woodland","UE","refPercent",0
+"50","Colorado Plateau Pinyon-Juniper Woodland","UE","currentPercent",0
+"51","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","A","refPercent",16
+"52","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","A","currentPercent",0
+"53","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","A","refPercent",16
+"54","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","A","currentPercent",0
+"55","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","B","refPercent",16
+"56","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","B","currentPercent",2
+"57","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","B","refPercent",16
+"58","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","B","currentPercent",12
+"59","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","C","refPercent",24
+"60","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","C","currentPercent",20
+"61","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","C","refPercent",24
+"62","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","C","currentPercent",52
+"63","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","D","refPercent",24
+"64","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","D","currentPercent",34
+"65","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","D","refPercent",24
+"66","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","D","currentPercent",2
+"67","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","E","refPercent",20
+"68","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","E","currentPercent",26
+"69","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","E","refPercent",20
+"70","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","E","currentPercent",0
+"71","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Agriculture","refPercent",0
+"72","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Agriculture","currentPercent",0
+"73","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Agriculture","refPercent",0
+"74","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Agriculture","currentPercent",0
+"75","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Developed","refPercent",0
+"76","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Developed","currentPercent",0
+"77","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Water","refPercent",0
+"78","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","Water","currentPercent",NA
+"79","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","UN","refPercent",0
+"80","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","UN","currentPercent",0
+"81","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","UE","refPercent",0
+"82","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","UE","currentPercent",0
+"83","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","UE","refPercent",0
+"84","Inter-Mountain Basins Big Sagebrush Shrubland - Upland","UE","currentPercent",0
+"85","Mojave Mid-Elevation Mixed Desert Scrub","A","refPercent",12
+"86","Mojave Mid-Elevation Mixed Desert Scrub","A","currentPercent",29
+"87","Mojave Mid-Elevation Mixed Desert Scrub","A","refPercent",12
+"88","Mojave Mid-Elevation Mixed Desert Scrub","A","currentPercent",36
+"89","Mojave Mid-Elevation Mixed Desert Scrub","B","refPercent",88
+"90","Mojave Mid-Elevation Mixed Desert Scrub","B","currentPercent",7
+"91","Mojave Mid-Elevation Mixed Desert Scrub","B","refPercent",88
+"92","Mojave Mid-Elevation Mixed Desert Scrub","B","currentPercent",22
+"93","Mojave Mid-Elevation Mixed Desert Scrub","C","refPercent",NA
+"94","Mojave Mid-Elevation Mixed Desert Scrub","C","currentPercent",NA
+"95","Mojave Mid-Elevation Mixed Desert Scrub","D","refPercent",NA
+"96","Mojave Mid-Elevation Mixed Desert Scrub","D","currentPercent",NA
+"97","Mojave Mid-Elevation Mixed Desert Scrub","E","refPercent",NA
+"98","Mojave Mid-Elevation Mixed Desert Scrub","E","currentPercent",NA
+"99","Mojave Mid-Elevation Mixed Desert Scrub","Agriculture","refPercent",0
+"100","Mojave Mid-Elevation Mixed Desert Scrub","Agriculture","currentPercent",0
+"101","Mojave Mid-Elevation Mixed Desert Scrub","Agriculture","refPercent",0
+"102","Mojave Mid-Elevation Mixed Desert Scrub","Agriculture","currentPercent",0
+"103","Mojave Mid-Elevation Mixed Desert Scrub","Developed","refPercent",0
+"104","Mojave Mid-Elevation Mixed Desert Scrub","Developed","currentPercent",0
+"105","Mojave Mid-Elevation Mixed Desert Scrub","Water","refPercent",0
+"106","Mojave Mid-Elevation Mixed Desert Scrub","Water","currentPercent",NA
+"107","Mojave Mid-Elevation Mixed Desert Scrub","UN","refPercent",0
+"108","Mojave Mid-Elevation Mixed Desert Scrub","UN","currentPercent",1
+"109","Mojave Mid-Elevation Mixed Desert Scrub","UN","refPercent",0
+"110","Mojave Mid-Elevation Mixed Desert Scrub","UN","currentPercent",0
+"111","Mojave Mid-Elevation Mixed Desert Scrub","UE","refPercent",0
+"112","Mojave Mid-Elevation Mixed Desert Scrub","UE","currentPercent",1
+"113","Mojave Mid-Elevation Mixed Desert Scrub","UE","refPercent",0
+"114","Mojave Mid-Elevation Mixed Desert Scrub","UE","currentPercent",1
+"115","Mojave Mid-Elevation Mixed Desert Scrub","A","refPercent",26
+"116","Mojave Mid-Elevation Mixed Desert Scrub","A","currentPercent",84
+"117","Mojave Mid-Elevation Mixed Desert Scrub","B","refPercent",74
+"118","Mojave Mid-Elevation Mixed Desert Scrub","B","currentPercent",8
+"119","Mojave Mid-Elevation Mixed Desert Scrub","C","refPercent",NA
+"120","Mojave Mid-Elevation Mixed Desert Scrub","C","currentPercent",NA
+"121","Mojave Mid-Elevation Mixed Desert Scrub","D","refPercent",NA
+"122","Mojave Mid-Elevation Mixed Desert Scrub","D","currentPercent",NA
+"123","Mojave Mid-Elevation Mixed Desert Scrub","E","refPercent",NA
+"124","Mojave Mid-Elevation Mixed Desert Scrub","E","currentPercent",NA
+"125","Mojave Mid-Elevation Mixed Desert Scrub","Agriculture","refPercent",0
+"126","Mojave Mid-Elevation Mixed Desert Scrub","Agriculture","currentPercent",NA
+"127","Mojave Mid-Elevation Mixed Desert Scrub","Developed","refPercent",0
+"128","Mojave Mid-Elevation Mixed Desert Scrub","Developed","currentPercent",NA
+"129","Mojave Mid-Elevation Mixed Desert Scrub","Water","refPercent",0
+"130","Mojave Mid-Elevation Mixed Desert Scrub","Water","currentPercent",NA
+"131","Mojave Mid-Elevation Mixed Desert Scrub","UN","refPercent",0
+"132","Mojave Mid-Elevation Mixed Desert Scrub","UN","currentPercent",0
+"133","Mojave Mid-Elevation Mixed Desert Scrub","UE","refPercent",0
+"134","Mojave Mid-Elevation Mixed Desert Scrub","UE","currentPercent",5
