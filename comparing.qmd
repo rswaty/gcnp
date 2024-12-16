@@ -16,7 +16,7 @@ library(tidyverse)
 
 Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.
 
--   First, we present **changes in broad ecosystem types** using an interactive comparison diagram. To present these broad ecosystem trends more effectively, we combined classifications of Existing Vegetation Types (EVT) into broader categories. The Developed EVTs of high, medium, and low intensity, and Quarries-Strip Mines-Gravel Pits EVTs were combined into one "Developed" EVT. Exotic Herbaceous and Exotic Tree-shrub EVTs were combined into one "Exotics" EVT.
+-   First, we present **changes in broad ecosystem types** using an interactive comparison diagram. To present these broad ecosystem trends more effectively, we combined classifications of Existing Vegetation Types (EVT) into broader categories. 
 
 -   Second, we compare **amounts of succession classes** (past and present) for the most prevalent ecosystems.
 

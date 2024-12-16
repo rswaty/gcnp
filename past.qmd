@@ -15,7 +15,7 @@ Use this page as a starting point to explore the most prevalent BpSs for the nor
 
 ## Summary
 
-* LANDFIRE Mapped 44 Biophysical Settings (BpS) in the area, with the top 10 types covering ~85% of the area.  There was not one dominant type, presumably due to the extreme diversity of landforms, elevation and aspects.
+* LANDFIRE Mapped 44 BpSs in the area, with the top 10 types covering ~85% of the area.  There was not one dominant type, presumably due to the extreme diversity of landforms, elevation and aspects.
 * For the most prevalent BpSs, the historical fire return intervals were fairly long, ranging from ~800 years for the Mojave Mid-Elevation Mixed Desert Scrub to ~80 years for the Mogollon Chaparral.  Notably the Southern Rocky Mountain Ponderosa Pine Woodland had a surface fire return interval of 10 years. 
 
 
